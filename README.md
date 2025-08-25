@@ -1,5 +1,6 @@
-# hist meta extraction
+# historical meta-data extraction
 
-This repo will contain later code for the extraction of metadata (e.g fiducial marks or altimeter values) from historical aerial image.
+This repository contains code for the publication "From Film to Data: Automating Meta-Feature Extraction in Historical Aerial Imagery".
 
-If interested, watch this repo, but currently nothing to see here (yet) :)
+In the folder "data", trained models for DLIB can be found that can detect subsets on historical images that contain fiducial marks.
+In the folder "src", the source code for the publication can be found. 
